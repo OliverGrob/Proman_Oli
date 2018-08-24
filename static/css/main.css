@@ -1,0 +1,36 @@
+.proman-container{
+    background-color: #00838f;
+}
+.proman-button{
+    background-color: #01579b;
+}
+.proman-row{
+    background: #00796b;
+}
+.proman-card-new{
+    background-color: #5e35b1;
+}
+.proman-card-todo{
+    background-color: #512da8;
+}
+.proman-card-in-progress{
+    background-color: #4527a0;
+}
+.proman-card-done{
+    background-color: #311b92;
+}
+body {
+    background: linear-gradient(to bottom, #4389A2, #5C258D);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.navbar-brand {
+    font-size: 30px;
+}
+#alert-message {
+    width: 400px;
+    position: absolute;
+    top: 70px;
+    left: 800px;
+    right: 20px;
+}
